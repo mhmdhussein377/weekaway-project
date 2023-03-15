@@ -30,10 +30,10 @@ const Navbar = () => {
                 </li>
             </ul>
             <div className="flex justify-between">
-                <FaFacebookF className="mx-4"/>
-                <FaTwitter className="mx-4"/>
-                <FaGooglePlusG className="mx-4"/>
-                <FaInstagram className="mx-4"/>
+                <FaFacebookF className="mx-4 cursor-pointer"/>
+                <FaTwitter className="mx-4 cursor-pointer"/>
+                <FaGooglePlusG className="mx-4 cursor-pointer"/>
+                <FaInstagram className="mx-4 cursor-pointer"/>
             </div>
 
             {/* Hamburger Icon */}
